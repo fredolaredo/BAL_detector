@@ -4,6 +4,8 @@
 
 recevoir une notification sur ouverture de la boite aux lettre qui se trouve en bas de l'immeuble
 
+fixation par aimant (je ne voulais pas faire de trous dans la BAL et plus facile pour récupérer pour recharger la batterie
+
 basse consommation pour tourner avec une batterie sur plusieurs mois 
 
 ## principe
@@ -24,7 +26,7 @@ DHT22 (pour le fun)
 
 une baterie Lithium 3,7v 1000mAh
 
-une Led 
+un contacteur par effet magnétique
 
-quelques composants passifs : resistances, capa de découplage, un push button, ...
+quelques composants passifs : led , resistances, capa de découplage, un push button, ...
 
